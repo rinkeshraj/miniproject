@@ -1,0 +1,133 @@
+
+nav a{
+    color: white;
+}
+.navbar-nav{
+    text-align: center;
+}
+
+.navbar-nav li{
+    color: white;
+	margin-left: 20px;
+	font-size: 20px;
+
+}
+.navbar-brand{
+	/* color: rgb(20, 20, 20); */
+	font-size: 30px;
+	font-family: 'Dancing Script', cursive;
+
+}
+
+nav a:hover{
+    text-decoration: none;
+}
+
+.b{
+    /* border: 5px solid rgb(39, 38, 38); */
+    box-shadow: -1px 3px 20px 10px  blueviolet;
+    padding: 3%;
+    margin-top: 8vh;
+    border-radius: 25px 40px;
+}
+.select{
+    width: 100px;
+    margin-left: 50px;
+    padding: 5px;
+    border: 2px solid rgba(85, 40, 40, 0.74);
+    border-bottom: grey;
+}
+.b h1{
+    text-align: center;
+    margin-bottom: 2vh;
+    color: brown;
+    margin-right: 20px;
+    font-family: 'Acme', Huerta Tipografica;
+}
+.b h3{
+    font-family: 'Fredoka One', Milena Brandao;
+    color: Chartreuse;
+}
+.b h4{
+    font-family: 'Fredoka One', Milena Brandao;
+    color: LawnGreen
+}
+
+.vs{
+    font-family: courier;
+    font-weight: bold;
+    margin-left: 160px;
+    margin-top: -30px;
+}
+
+.select1{
+    width: 100px;
+    margin-left: 190px;
+    margin-top: -44px;
+    padding: 5px;
+    border: 2px solid rgba(85, 40, 40, 0.74);
+    border-bottom: grey;
+    float: left;
+}
+
+#date{
+    width: 150px;
+    margin-left: 90px;
+    /* margin-top: -44px; */
+    padding: 5px;
+    border: 2px solid rgba(85, 40, 40, 0.74);
+    border-bottom: grey;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+} 
+.para1{
+    color: white;
+}
+.para2{
+    color: Yellow;
+}
+.para3{
+    
+    color: blueviolet;
+}
+
+.imgr{
+    margin-top: 2vh;
+    width: 100%;
+    height: 40vh;
+    margin-bottom: 2px;
+    border-radius: 10px;
+}
+
+.tn{
+
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+
+.link {
+    margin-top: 5vh;
+    margin-bottom: 4vh;
+    
+}
+.link img{
+    margin-top: -45px;
+    margin-left: 5px;
+}
+.qq{
+    margin-top: 5vh;
+    margin-bottom: 0vh;
+
+    border-radius: 20% 20%;
+    
+    padding: 25px;
+}
+.p{
+    margin-top: 4vh;
+}
+
+.Note{
+    color: Red;
+    font-family: 'Satisfy',sideshow;
+    font-size: 20;
+}
